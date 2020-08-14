@@ -1,8 +1,11 @@
-# EightSoft-Projects
-Python Apps &amp; Games &amp; GUI &amp; Web
+# Python Programming Language 
+## (Couresera.org Python For Everybody)
+In this repository, I want to share my experience which i gained in Python For Everybody online course in (Coursera.org)
 
-## 1. Dictionary app
-   - console version (Pure Python)
-   - gui version (Python Tkinter)
-   - web version (Python Django)
-   - telegram bot version (telepot || aiogram)
+# -- Data Structures -- { 
+## Data Structures -> A particular way of organizing data in a computer 
+  - You can read my assignments which I have solved for the course
+  - Also in the Presentation folder, You can use ppts for learning python Data Structures (Strings, Lists, Tuples, Dictionaries ...)  
+  - You can check my certificate also,which I recieved after completing course.
+  
+# -}
